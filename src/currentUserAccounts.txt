@@ -1,0 +1,6 @@
+vkabilan        AA 350.00000
+rnayani         FS 400.00000
+vmohanasunthary SS 545.00000
+ghari           BS 0.0000000
+mnabil          SS 555.00000
+END
