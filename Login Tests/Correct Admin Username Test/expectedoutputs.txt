@@ -1,0 +1,10 @@
+------------
+1. Sell
+2. Buy
+3. Logout
+4. Create user
+5. Delete user
+6. Refund
+7. Addcredit
+------------
+Please Input the Menu Option Number: 

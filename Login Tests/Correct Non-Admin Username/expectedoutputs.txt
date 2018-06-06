@@ -1,0 +1,7 @@
+------------
+1. Sell
+2. Buy
+3. Logout
+4. Addcredit
+------------
+Please Input the Menu Option Number: 
